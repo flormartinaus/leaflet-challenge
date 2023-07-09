@@ -24,10 +24,8 @@ Class exercises: Incorporating concepts and techniques learned during the course
 Stack Overflow: Community-driven question and answer platform for troubleshooting.
 ASK BCS: Consultation and guidance from BCS tutors.
 Tutorials: Online tutorials and documentation for learning and implementing specific features.
-YouTube tutorials: Video tutorials for understanding and applying relevant techniques.
-Leaflet plug-ins: Additional plug-ins for extending the functionality of the Leaflet library.
-Usage
-To visualize the earthquake data, follow these steps:
+
+## To visualize the earthquake data, follow these steps:
 
 Access the project repository: GitHub Repository
 Clone the repository to your local machine.
